@@ -1,1 +1,2 @@
-This is file 2 in a subdirectory
+I now want to change file 2
+Of course.
