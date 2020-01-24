@@ -1,1 +1,2 @@
 This is file 2 in a subdirectory
+Truc de ouf malade
