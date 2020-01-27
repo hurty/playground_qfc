@@ -1,3 +1,3 @@
-This is file 2 in a subdirectory
+COUCOU This is file 2 in a subdirectory
 The content is great
 And full of surprises
