@@ -1,1 +1,1 @@
-This is file number 1
+This is CHANGES IN THE MIDDLE file number 1

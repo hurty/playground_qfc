@@ -1,1 +1,1 @@
-This is file 2 in a subdirectory
+CHANGES AT THE BEGINNING This is file 2 in a subdirectory
