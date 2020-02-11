@@ -1,3 +1,3 @@
-This is file number 1
+Bonjour
 With some text here
 And text there
