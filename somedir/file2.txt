@@ -1,3 +1,2 @@
-This is file 2 in a subdirectory
-The content is great
+Hello
 And full of surprises
