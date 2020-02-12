@@ -1,3 +1,3 @@
-HOOKS ?
+hooks
 The content is great
 And full of surprises
